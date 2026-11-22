@@ -42,13 +42,13 @@ The mainboard has a push-pull style connector to the front panel. This does NOT 
 
 The board has four important chips:
 
-TDA7529 (IF RF front-end, LQFP64 package, top left)
+TDA7529 (IF RF front-end, LQFP64 package, top left) - [TDA7529 datasheet](https://www.alldatasheet.com/datasheet-pdf/view/173331/STMICROELECTRONICS/TDA7529.html)
 
-SAF7780HL (Main Soc, LQFP-176 package, middle)
+SAF7780HL (Main Soc, LQFP-176 package, middle) - [SAF7741 datasheet](https://www.alldatasheet.com/datasheet-pdf/view/1424867/NXP/SAF7741.html) - Closest match
 
-TDA7563ASM (Amplifier, Flexiwatt27 SMD package, bottom middle)
+TDA7563ASM (Amplifier, Flexiwatt27 SMD package, bottom middle) - [TDA7563 datasheet](https://www.alldatasheet.com/datasheet-pdf/view/243592/STMICROELECTRONICS/TDA7563ASM.html)
 
-L5956PD (Regulator IC, PowerSO-20 package, top middle)
+L5956PD (Regulator IC, PowerSO-20 package, top middle) - [L5956 datasheet](https://www.alldatasheet.com/datasheet-pdf/view/234417/STMICROELECTRONICS/L5956PD.html)
 
 ![description](20261122_064519.jpg)
 (Left to right: Ground, Left, Right)

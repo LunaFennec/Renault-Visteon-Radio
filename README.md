@@ -11,7 +11,7 @@ They are compact, low-ish powered radio's featuring a can-bus interface which us
 
 #### 1 - Identify and remove 8 torx T9 screws. a T10 will fit but you need to push hard to prevent slippage.
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/LunaFennec/Renault-Visteon-Radio/blob/main/20261122_064433.jpg)
 
 #### 2 - Tilt and pull back cover plate, then tilt and pull back mainboard.
 The mainboard has a push-pull style connector to the front panel. This does NOT have any clips. Just pull away and it will come loose. This design is on purpose.

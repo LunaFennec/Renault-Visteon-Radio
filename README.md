@@ -7,7 +7,7 @@ The specimen used is from a 2011 Renault Twingo II Phase 1.(Pre-facelift) Part n
 ![description](20261122_064448.jpg)
 
 These radio's are commonly found in Renault group products from around the 2010's.
-They are compact, low-ish powered radio's featuring a can-bus interface which usually goes paired with a display near the dashboard/instrument cluster. This version came with an LCD style display; there are also Visteon radios which drive a dot-matrix display. I haven't been able to find one to take apart yet.
+They are compact, decently powered AM/FM/Aux/CD radio's featuring a can-bus interface which usually goes paired with a display near the dashboard/instrument cluster. This version came with an LCD style display; there are also Visteon radios which drive a dot-matrix display. I haven't been able to find one to take apart yet.
 
 ## Disassembly 
  This process is easy and well-designed. 
